@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Mohit Jain
 - 👀 I’m interested in Developing and Learning New Techonologies.
-<!---
-- 🌱 I’m currently learning Spring Boot with Angular
+- 🌱 I’m currently Working in Spring Boot , Angular, Laravel and Flutter.
 - 💞️ I’m looking to collaborate on some opensource projects
---->
+
 
 <!---
 mohitj2401/mohitj2401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
