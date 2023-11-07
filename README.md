@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohit Jain
 - 👀 I’m interested in Developing and Learning New Techonologies.
-- 🌱 I’m currently Learning  Data Science and ML.
-- 💞️ I’m looking to collaborate on some opensource projects
+
 
 
 <!---
