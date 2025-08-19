@@ -5,7 +5,7 @@
 - 📫 How to reach me [Linkdin](https://www.linkedin.com/in/mohit-7895/)
 
 
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitj2401)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitj2401&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mohitj2401/mohitj2401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
